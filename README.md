@@ -6,7 +6,7 @@
 
 <!-- Introduction with Emojis -->
 ## About Me
-I'm a **Data Science** passionate about turning data into actionable insights. During my college days, I also worked on **web development** and **.NET projects** as a freelancer.
+I'm truly passionate about the world of Data Science, where I thrive on transforming raw data into valuable insights that drive impactful decisions. Additionally, during my college years, I delved into the realms of web development and undertook various challenging .NET projects as a freelancer.
 
 - 🔭 I’m currently working on data science projects.
 - 🌱 I’m currently learning advanced machine learning techniques.
