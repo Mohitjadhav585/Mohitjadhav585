@@ -55,7 +55,7 @@ I'm truly passionate about the world of Data Science, where I thrive on transfor
 <!-- Contact Section with Social Media Links -->
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/[Mohit Jadhav]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
-  <a href="https://twitter.com/[@MohitJadhav0311]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" /></a>
-  <a href="https://www.kaggle.com/[Mohit0311]"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/Mohit Jadhav"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="https://twitter.com/@MohitJadhav0311"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" /></a>
+  <a href="https://www.kaggle.com/Mohit0311"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat" /></a>
 </p>
